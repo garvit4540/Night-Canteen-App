@@ -32,7 +32,7 @@ const Pizza = ({ pizza }) => {
           <Card.Text>
             <Row>
               <Col md={6}>
-                <h6>Varients</h6>
+                <h6>Variants</h6>
                 <select
                   value={varient}
                   onChange={(e) => setVarient(e.target.value)}
