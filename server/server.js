@@ -3,6 +3,7 @@ const dotenv = require('dotenv')
 const connectDB =  require('./config/config')
 require('colors')
 const morgan = require('morgan')
+const { application } = require('express')
 
 //config dotevn
 dotenv.config();
@@ -19,6 +20,7 @@ app.use(morgan('dev'));
 //route
 app.use("/api/pizzas",require("./routes/pizzaRoute"));
 app.use("/api/users", require("./routes/userRoutes"));
+app.use("/api/orders", require("./routes/orderRoute"));
 app.get('/',(req,res)=>{
     res.send("<h1>Hello from Nodemon Server</h1>");
 });
