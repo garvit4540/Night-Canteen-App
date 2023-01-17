@@ -1,24 +1,24 @@
-const express = require('express')
-const dotenv = require('dotenv')
-const connectDB =  require('./config/config')
-require('colors')
-const morgan = require('morgan')
-const { application } = require('express')
+const express = require("express");
+const dotenv = require("dotenv");
+const path = require("path");
+const connectDB = require("./config/config");
+require("colors");
+const morgan = require("morgan");
 
-//config dotevn
+//config dotenv
 dotenv.config();
 
-//conncection mongodb
+//connection mongodb
 connectDB();
 
-const app=express();
+const app = express();
 
 //middlewares
 app.use(express.json());
-app.use(morgan('dev'));
+app.use(morgan("dev"));
 
 //route
-app.use("/api/pizzas",require("./routes/pizzaRoute"));
+app.use("/api/pizzas", require("./routes/pizzaRoute"));
 app.use("/api/users", require("./routes/userRoutes"));
 app.use("/api/orders", require("./routes/orderRoute"));
 app.get('/',(req,res)=>{

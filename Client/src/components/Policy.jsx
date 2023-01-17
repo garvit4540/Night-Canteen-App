@@ -9,112 +9,33 @@ const Policy = () => {
         <Row>
           <Col md={10}>
             <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
+              Rules
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
+            <ul>
+              <li>Respect the aides and night canteen workers</li>
+              <li>After eating, put the plates in their proper place.</li>
+              <li>After 2 AM, we will not take any order</li>
+              <li>The will be no refund once an order has been placed.</li>
+              <li>Don't crowd over the counter. Just sit at your place after giving the order and wait.</li>
+              <li>You can pay in cash or online.</li>
+            </ul>
             </p>
             <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
             </p>
             <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
             </p>
             <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
             </p>
             <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
-            </p>
-            <h6>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-              praesentium?
-            </h6>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam
-              officia nemo unde neque iusto minima reiciendis vitae nam deserunt
-              qui nulla rem voluptas, non velit earum, corrupti delectus sint!
-              Quibusdam quam aliquam eveniet molestias fuga assumenda culpa at,
-              temporibus tempore perspiciatis repellat architecto iste
-              aspernatur repellendus quaerat reprehenderit libero excepturi iure
-              nisi! Ipsum unde voluptatibus repellendus provident esse aliquam
-              labore, inventore ex autem nobis sunt. Cupiditate unde impedit
-              ullam blanditiis quos molestias molestiae modi iusto dignissimos,
-              sed architecto? Officiis, esse perferendis. Dolor dolores
-              voluptates quos, officia voluptatibus nesciunt voluptatum
-              voluptatem ipsa, minus magni, quisquam illum sit quis itaque quas.
             </p>
           </Col>
         </Row>
